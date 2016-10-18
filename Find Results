@@ -1,0 +1,22 @@
+Searching 1 file for "Stellar"
+
+C:\Users\Administrator\Desktop\html\index.html:
+    1  <!DOCTYPE HTML>
+    2  <!--
+    3: 	Stellar by HTML5 UP
+    4  	html5up.net | @ajlkn
+    5  	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+    .
+    7  <html>
+    8  	<head>
+    9: 		<title>Stellar by HTML5 UP</title>
+   10  		<meta charset="utf-8" />
+   11  		<meta name="viewport" content="width=device-width, initial-scale=1" />
+   ..
+   23  					<header id="header" class="alt">
+   24  						<span class="logo"><img src="images/logo.svg" alt="" /></span>
+   25: 						<h1>改了啊</h1>
+   26  						<p>Just another free, fully responsive site template<br />
+   27  						built by <a href="https://twitter.com/ajlkn">@ajlkn</a> for <a href="https://html5up.net">HTML5 UP</a>.</p>
+
+3 matches in 1 file
