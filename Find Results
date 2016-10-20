@@ -14,7 +14,7 @@ C:\Users\Administrator\Desktop\html\index.html:
    11  		<meta name="viewport" content="width=device-width, initial-scale=1" />
    ..
    23  					<header id="header" class="alt">
-   24  						<span class="logo"><img src="http://img4q.duitang.com/uploads/item/201503/18/20150318230531_FN3Qm.jpeg" alt="" /></span>
+   24  						<span class="logo"><img src="images/logo.svg" alt="" /></span>
    25: 						<h1>改了啊</h1>
    26  						<p>Just another free, fully responsive site template<br />
    27  						built by <a href="https://twitter.com/ajlkn">@ajlkn</a> for <a href="https://html5up.net">HTML5 UP</a>.</p>
